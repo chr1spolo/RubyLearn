@@ -13,5 +13,15 @@ puts nombre_del_curso
 # separarlas por guión, todo esto por convención
 
 #forma de interpolacion en ruby
-
 puts "Hola jóven, #{nombre_del_curso}"
+
+
+#los metodos se definen de la siguiente forma
+
+def welcome
+    primer_nombre = "Christian"
+    segundo_nombre = "David"
+    puts "Hola, tu primer nombre es: #{primer_nombre}, tu segundo nombre  es: #{segundo_nombre}"
+end
+
+welcome
