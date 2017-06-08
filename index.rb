@@ -8,3 +8,10 @@ puts "Hello World"
 nombre_del_curso = "lear ruby"
 
 puts nombre_del_curso
+
+# las variables en ruby siempre van con minusculas, si llevan más de una palabra
+# separarlas por guión, todo esto por convención
+
+#forma de interpolacion en ruby
+
+puts "Hola jóven, #{nombre_del_curso}"
