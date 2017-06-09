@@ -4,14 +4,7 @@
 
 
 def dolar_conversion( dolar_to_convert , percentaje )
-
-#variable que obtendrá la cantidad de dolares a convertir
-dolares = dolar_to_convert
-#variable que obtendrá el porcentaje de cambio
-tasa_de_cambio = percentaje
-
-return dolares * tasa_de_cambio
-    
+    return (dolar_to_convert * percentaje)
 end
 
 
