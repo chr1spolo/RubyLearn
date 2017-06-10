@@ -18,3 +18,7 @@ puts 8.odd?
 
 #si es par
 puts 8.even?
+
+mesage = "asdjnjas \n"
+#imprimir 10 veces un string
+puts mesage * 10
