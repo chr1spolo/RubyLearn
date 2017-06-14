@@ -1,0 +1,8 @@
+keywords : funciones o metodos de ruby
+
+Benchmarking: evaluacion entre funciones para saber o determinar cual es más óptima/veloz
+interpolación: embeber una variable en una cadena
+
+en ruby si no se le especifica un return el regresa la ultima instruccion de nuestro metodo
+
+el objeto que está guardando no representa nada => nil
