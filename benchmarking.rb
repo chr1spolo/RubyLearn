@@ -44,3 +44,5 @@ end_time = Time.now
 result = (end_time - start_time)
 
 puts result
+
+#todos los metodos de ruby siempre tienen un return value
