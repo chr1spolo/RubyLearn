@@ -6,3 +6,10 @@ interpolación: embeber una variable en una cadena
 en ruby si no se le especifica un return el regresa la ultima instruccion de nuestro metodo
 
 el objeto que está guardando no representa nada => nil
+
+nil o null, significa ausencia de objeto, non object, en ruby nil es un objeto, ya que en ruby
+todo es un objeto, nil es un objeto de la clase NillClass, quiere deci que no representa nada
+
+que es un arreglo? son un tipo de estructuras de datos, es una coleccion secuencial de elementos
+en los cuales cada elemento puede ser indexado es decir tiene una posicion en el arreglo, los
+arreglos pueden guardar cualquier tipo de datos
